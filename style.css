@@ -16,7 +16,7 @@
 body {
   background-color: var(--backround-color);
 }
-.container {
+.footer-container {
   padding-left: 20px;
   padding-right: 20px;
   width: 100%;
@@ -195,7 +195,7 @@ hr {
 }
 
 /* Desktop view */
-@media screen and (min-width: 1158px) {
+@media screen and (min-width: 1280px) {
   .first-title {
     flex-direction: row;
     gap: 8px;
